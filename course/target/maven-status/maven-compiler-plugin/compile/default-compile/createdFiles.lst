@@ -1,0 +1,12 @@
+com\lms\course\command\api\events\CourseCreatedEvent.class
+com\lms\course\command\api\model\CourseRestModel$CourseRestModelBuilder.class
+com\lms\course\command\api\aggregate\CourseAggregate.class
+com\lms\course\command\api\data\Course.class
+com\lms\course\command\api\data\CourseRepository.class
+com\lms\course\command\api\events\CourseCreatedEvent$CourseCreatedEventBuilder.class
+com\lms\course\command\api\events\CourseEventsHandler.class
+com\lms\course\command\api\command\CreateCourseCommand.class
+com\lms\course\command\api\controller\CourseCammandController.class
+com\lms\course\command\api\command\CreateCourseCommand$CreateCourseCommandBuilder.class
+com\lms\course\command\api\model\CourseRestModel.class
+com\lms\course\CourseApplication.class
